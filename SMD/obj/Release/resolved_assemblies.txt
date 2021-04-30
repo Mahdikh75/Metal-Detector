@@ -1,0 +1,8 @@
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\SMD.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\CalligraphyBindings.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\Java.Interop.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\Mono.Android.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\mscorlib.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\System.Core.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\System.dll
+E:\Software Developer\Android\Project\Application Android\App Price\Smart Metal Detectors\SMD\obj\Release\android\assets\System.Runtime.Serialization.dll

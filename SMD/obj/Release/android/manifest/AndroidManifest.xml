@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Com.Mkh_MD" android:versionCode="2" android:versionName="1.4.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.DEVICE_POWER" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <application android:icon="@drawable/icon" android:label="فلزیاب پیشرفته" android:name="md57c9ee95636573fc425cb6dc2bf71eef8.ClassApp" android:allowBackup="true">
+    <activity android:label="Help &amp; About" android:screenOrientation="portrait" android:theme="@android:style/Theme.Material.Light" android:name="md592428e3fa88343bc0feb505b194557f3.AboutHelpActivity" />
+    <activity android:icon="@drawable/icon" android:label="Smart Metal Detectors" android:screenOrientation="portrait" android:theme="@android:style/Theme.Material.Light" android:name="md592428e3fa88343bc0feb505b194557f3.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Sensor L-T" android:screenOrientation="portrait" android:theme="@android:style/Theme.Material.Light" android:name="md592428e3fa88343bc0feb505b194557f3.SensorLTActivity" />
+    <activity android:label="Setting app" android:screenOrientation="portrait" android:theme="@android:style/Theme.Material.Light" android:name="md592428e3fa88343bc0feb505b194557f3.SettingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Com.Mkh_MD.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

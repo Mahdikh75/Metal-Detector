@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"> >
+  <item android:id ="@+id/ItemMain" android:title ="منو اصلی" android:icon="@drawable/Menu" android:showAsAction="always">
+
+    <menu >
+
+      <item android:id ="@+id/ItemSensor" android:title ="سنسور" android:showAsAction="always"/>
+      <item android:id ="@+id/ItemSetting" android:title ="تنظیمات" android:showAsAction="always"/>
+      <item android:id ="@+id/ItemTimer" android:title ="تایمر" android:showAsAction="always"/>
+      <item android:id ="@+id/ItemAboutHelp" android:title ="آموزش و درباره" android:showAsAction="always"/>
+      
+    </menu>
+    
+  </item>
+  
+</menu>

@@ -1,0 +1,20 @@
+VehicleTools.ClassApp, SMD;md57c9ee95636573fc425cb6dc2bf71eef8.ClassApp
+VehicleTools.ClassApp, SMD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57c9ee95636573fc425cb6dc2bf71eef8.ClassApp
+VehicleTools.ClassApp;md57c9ee95636573fc425cb6dc2bf71eef8.ClassApp
+vehicletools.ClassApp;md57c9ee95636573fc425cb6dc2bf71eef8.ClassApp
+SMD.AboutHelpActivity, SMD;md592428e3fa88343bc0feb505b194557f3.AboutHelpActivity
+SMD.AboutHelpActivity, SMD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592428e3fa88343bc0feb505b194557f3.AboutHelpActivity
+SMD.AboutHelpActivity;md592428e3fa88343bc0feb505b194557f3.AboutHelpActivity
+smd.AboutHelpActivity;md592428e3fa88343bc0feb505b194557f3.AboutHelpActivity
+SMD.MainActivity, SMD;md592428e3fa88343bc0feb505b194557f3.MainActivity
+SMD.MainActivity, SMD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592428e3fa88343bc0feb505b194557f3.MainActivity
+SMD.MainActivity;md592428e3fa88343bc0feb505b194557f3.MainActivity
+smd.MainActivity;md592428e3fa88343bc0feb505b194557f3.MainActivity
+SMD.SensorLTActivity, SMD;md592428e3fa88343bc0feb505b194557f3.SensorLTActivity
+SMD.SensorLTActivity, SMD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592428e3fa88343bc0feb505b194557f3.SensorLTActivity
+SMD.SensorLTActivity;md592428e3fa88343bc0feb505b194557f3.SensorLTActivity
+smd.SensorLTActivity;md592428e3fa88343bc0feb505b194557f3.SensorLTActivity
+SMD.SettingActivity, SMD;md592428e3fa88343bc0feb505b194557f3.SettingActivity
+SMD.SettingActivity, SMD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592428e3fa88343bc0feb505b194557f3.SettingActivity
+SMD.SettingActivity;md592428e3fa88343bc0feb505b194557f3.SettingActivity
+smd.SettingActivity;md592428e3fa88343bc0feb505b194557f3.SettingActivity
